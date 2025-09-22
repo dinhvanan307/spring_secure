@@ -1,29 +1,40 @@
-# securing-web homework
-1. User login
-<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/7bddb68a-833f-48ed-995a-dff6101e8a94" />
+WEB SECURE
 
-<img width="1919" height="862" alt="image" src="https://github.com/user-attachments/assets/81618acf-b711-44a5-8ea9-ef64f8cafa40" />
+Login page 
 
-Role "User" không vào được "Admin Page"
-<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/0d3d20fc-ae00-47d9-adc7-f8f787cd7442" />
+<img width="1908" height="956" alt="image" src="https://github.com/user-attachments/assets/e209c1ad-28cc-4cc1-b2c8-4dc6c5fc2dec" />
 
-2. Admin Login
-<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/14b7ef00-cf84-4511-a8dc-e537f422a2b1" />
-Role "Admin" có thể vào được "Admin Page"
-<img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/fd467fd6-53da-4f42-803f-b2f572ffed6a" />
+<img width="1902" height="948" alt="image" src="https://github.com/user-attachments/assets/782865a1-114c-4fcc-9bc5-660160d0444a" />
 
-3. Database
-Các bảng trong Database
-<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/f82c2fb1-eaa1-4f7b-980d-a6f4dae28cf3" />
+<img width="1902" height="943" alt="image" src="https://github.com/user-attachments/assets/7c7f7a45-2236-4cd6-9259-bc56b0eabe00" />
 
-Bảng users:
-<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/67a1c77d-72ce-4f1b-ac8d-a4a75800efe1" />
+User dashboard
 
-Bảng roles:
-<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/a426d6bc-7cc9-46b2-a247-f83d5be4431e" />
+<img width="1856" height="1024" alt="image" src="https://github.com/user-attachments/assets/69e49943-ade3-4e9d-b767-2eb10c20e93b" />
 
-Bảng users_roles:
-<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/861ac332-517b-42de-98df-ce75ac5c9454" />
+user role cant connect to admin dashboard
+
+<img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/fe8202c1-26eb-4fc1-8b4d-202aac0a0f5e" />
+
+Admin dashboard
+
+<img width="1917" height="969" alt="image" src="https://github.com/user-attachments/assets/cd20be44-f565-4334-a2b6-ba4364e323f9" />
+
+<img width="1918" height="999" alt="image" src="https://github.com/user-attachments/assets/d323d4f2-b9b3-4dbf-960d-53483f6b722a" />
+
+Database
+
+<img width="225" height="176" alt="image" src="https://github.com/user-attachments/assets/0b1894f8-65cc-4985-8a3a-c08d2589d14e" />
+
+<img width="321" height="194" alt="image" src="https://github.com/user-attachments/assets/1d04495e-26f7-4de2-8b99-b91fad7c80f1" />
+
+<img width="519" height="245" alt="image" src="https://github.com/user-attachments/assets/8fbf4295-4d44-4f07-8ab0-e09c2a64bb54" />
+
+
+
+
+
+
 
 
 
